@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/prodip54370883" target="blank"><img src="https://img.shields.io/twitter/follow/prodip54370883?logo=twitter&style=for-the-badge" alt="prodip54370883" /></a> </p>
 
-- 🔭 I’m currently working on [Diamond Price Prediction](https://github.com/prodip1023/DiamondPrice_Prediction)
+- 🔭 I’m currently working on [Generative AI](https://github.com/prodip1023/Llama-2-on-CPU-Machine)
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
